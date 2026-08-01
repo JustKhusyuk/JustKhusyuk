@@ -1,6 +1,6 @@
 ## Just Khusyuk Privacy Policy
 
-<--
+
 Last Updated: August 1, 2026
 Just Khusyuk ("we", "our", or "us") respects your privacy.
 
@@ -21,4 +21,4 @@ Your usage of the app stays on your device. We have no access to it.
 If you have questions about this Privacy Policy, contact us at:
 Email: [AdminJustKhusyuk@gmail.com]
 
--->
+
